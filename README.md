@@ -22,7 +22,7 @@ cd InstagramBot
 ```
 
 Create a virtual enviornment <br>
-# Creating virtual environment in Linux
+## Creating virtual environment in Linux
 ```
 pip install virtualenv
 ```
@@ -32,7 +32,7 @@ pip install virtualenv
 ```
 source virtualenv_name/bin/activate
 ```
-# Creating virtual environment in  Windows
+## Creating virtual environment in  Windows
 ```
 pip install virtualenv
 ```
