@@ -1,7 +1,3 @@
-# Telegrambot-for-Instagram
-A simple Telegram bot to  download instagram profile picture by inputing the username and to get profile details .\
-Will add new features soon.....!!!\
-Deployed Telegram bot username **@InstaMediaSaver_bot**
 
 # Instagram Media Saver Bot
 InstaMediaSaver_bot is a telegram bot that helps to download profile pictures of both public and private accounts with profile details 
