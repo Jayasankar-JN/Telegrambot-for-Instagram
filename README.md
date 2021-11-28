@@ -4,7 +4,7 @@ InstaMediaSaver_bot is a telegram bot that helps to download profile pictures of
 
 As you may know, we cannot enlarge  the profile picture of instagram accounts ,this bot helps you  to view  it in your comfort <br>
 
-Deployed Telegram bot username **@InstaMediaSaver_bot**
+Deployed Telegram bot username [InstaMediaSaver_bot](https://telegram.me/InstaMediaSaver_bot)
 
 ## Demo
 ![Demo gif](./demo.gif)
