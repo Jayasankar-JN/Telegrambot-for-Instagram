@@ -56,7 +56,6 @@ To make your own bot, you need to obtain an api token from [@BotFather](https://
 <br>
 Now you are all set to run your bot. Enter the following commands in the terminal
 
-<br>
 ```
 python bot.py
 ```
