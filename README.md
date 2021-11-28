@@ -62,5 +62,6 @@ python bot.py
 ```
 
 Your bot is now all set to receive instructions.<br>
-Will add new features soon.....!!!\
+
+Will add new features soon.....!!!
 
