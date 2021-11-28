@@ -18,8 +18,10 @@ Download the source code or clone it using <br>
 https://github.com/Jayasankar-JN/InstagramBot.git
 ```
 
-Change to Morpheus directory<br>
-`cd InstagramBot`
+Change to InstagramBot directory<br>
+```
+cd InstagramBot
+```
 
 Create a virtual enviornment <br>
 # Creating virtual environment in Linux
